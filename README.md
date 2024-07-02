@@ -6,6 +6,7 @@ I've been coding for a while, but I've never taken time to actually learn. On Ju
 
 ### About Me
 I've been interested in computer science for a while now. I will document my learning process here, which will include what I'm learning and the resources I'm using.
+([divine-sean.github.io/](https://divine-sean.github.io/))
 
 ### Topics I'm Learning
 - HTML and CSS
