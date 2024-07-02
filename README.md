@@ -2,7 +2,7 @@
 
 👋 Hey, I'm Sean, and I am 15 years old.
 
-I've been coding for a while, but I've never taken time to actually learn. On July 8th, I started my official learning journey.
+I've been coding for a while, but I've never taken time to actually learn. On July 8th, I start my official learning journey.
 
 ### About Me
 I've been interested in computer science for a while now. I will document my learning process here, which will include what I'm learning and the resources I'm using.
